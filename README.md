@@ -1,7 +1,7 @@
 # Chdman-Convert
  **Script Batch para conversão de imagens com CHDMAN**
 
-1 Baixe o arquivo `chdman.exe` em https://archive.org/details/chdman
+1 Baixe o arquivo `chdman.exe` em https://archive.org/details/chdman_202308
 
 2 Copie `chdman.exe` para o diretório `Chdman-Convert`
 
